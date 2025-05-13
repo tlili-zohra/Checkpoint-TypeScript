@@ -1,6 +1,6 @@
-# =====================================
+ =====================================
 # 📘 Readme.mk — TypeScript Vehicle App
-# =====================================
+ =====================================
 ## Project: Vehicle Interface & Car Class
 ## Language: TypeScript
 ## Description:
@@ -11,9 +11,9 @@
 ###     - Compile and run TypeScript
 #
 #
-# -----------------------------------------
+ -----------------------------------------
 # 🧱 Project Structure
-# -----------------------------------------
+ -----------------------------------------
 ## Folder Structure:
 ###   .
 ###   ├── index.ts      # TypeScript source code
@@ -23,15 +23,15 @@
 ###   ├── package-lock.json  # File Json
 ###   ├── package.json       # File Content Script to run file and Dependencies
 #
-# -----------------------------------------
+ -----------------------------------------
 # 📤 Output Example
-# -----------------------------------------
+ -----------------------------------------
 ## Expected Output:
 ###   Car: Land Rover Range Rover (2024)
 ###   Car engine started
-# -----------------------------------------
+ -----------------------------------------
 # 📦 Setup & Run Instructions
-# -----------------------------------------
+ -----------------------------------------
 ## ▶️ Run File
 ###   npm install        # Install dependencies
 ###   npm run watch      # Watch and compile TypeScript

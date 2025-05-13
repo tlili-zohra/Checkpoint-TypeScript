@@ -1,6 +1,6 @@
- =====================================
+ -------------------------------------
 # 📘 Readme.mk — TypeScript Vehicle App
- =====================================
+ -------------------------------------
 ## Project: Vehicle Interface & Car Class
 ## Language: TypeScript
 ## Description:
@@ -9,8 +9,6 @@
 ###     - Implement it in a class
 ###     - Create and use class instances
 ###     - Compile and run TypeScript
-#
-#
  -----------------------------------------
 # 🧱 Project Structure
  -----------------------------------------
@@ -22,7 +20,6 @@
 ###   ├── tsconfig.json     # TypeScript config
 ###   ├── package-lock.json  # File Json
 ###   ├── package.json       # File Content Script to run file and Dependencies
-#
  -----------------------------------------
 # 📤 Output Example
  -----------------------------------------

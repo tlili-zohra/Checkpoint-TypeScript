@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js",
+    "watch": "tsc --watch",
+    "dev:node": "nodemon",
+    "dev": "concurrently \"npm run watch\" \"npm run dev:node\""
+  },
+  "dependencies": {
+    "concurrently": "^9.1.2",
+    "nodemon": "^3.1.10",
+    "typescript": "^5.8.3"
+  }
+}
